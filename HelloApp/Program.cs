@@ -29,7 +29,7 @@ namespace HelloApp
             Console.WriteLine($"Name: {name}");
             Console.WriteLine($"Age: {age}");
             Console.WriteLine($"Works: {isEpmloyed}");
-            Console.WriteLine($"Weighttt: {weight}");
+            Console.WriteLine($"Weigh: {weight}");
 
         }
     }
