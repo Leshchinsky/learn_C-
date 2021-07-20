@@ -1,0 +1,13 @@
+D:\7. Education Days\C#\HelloApp\HelloApp\bin\Debug\netcoreapp3.1\HelloApp.exe
+D:\7. Education Days\C#\HelloApp\HelloApp\bin\Debug\netcoreapp3.1\HelloApp.deps.json
+D:\7. Education Days\C#\HelloApp\HelloApp\bin\Debug\netcoreapp3.1\HelloApp.runtimeconfig.json
+D:\7. Education Days\C#\HelloApp\HelloApp\bin\Debug\netcoreapp3.1\HelloApp.runtimeconfig.dev.json
+D:\7. Education Days\C#\HelloApp\HelloApp\bin\Debug\netcoreapp3.1\HelloApp.dll
+D:\7. Education Days\C#\HelloApp\HelloApp\bin\Debug\netcoreapp3.1\HelloApp.pdb
+D:\7. Education Days\C#\HelloApp\HelloApp\obj\Debug\netcoreapp3.1\HelloApp.csprojAssemblyReference.cache
+D:\7. Education Days\C#\HelloApp\HelloApp\obj\Debug\netcoreapp3.1\HelloApp.AssemblyInfoInputs.cache
+D:\7. Education Days\C#\HelloApp\HelloApp\obj\Debug\netcoreapp3.1\HelloApp.AssemblyInfo.cs
+D:\7. Education Days\C#\HelloApp\HelloApp\obj\Debug\netcoreapp3.1\HelloApp.csproj.CoreCompileInputs.cache
+D:\7. Education Days\C#\HelloApp\HelloApp\obj\Debug\netcoreapp3.1\HelloApp.dll
+D:\7. Education Days\C#\HelloApp\HelloApp\obj\Debug\netcoreapp3.1\HelloApp.pdb
+D:\7. Education Days\C#\HelloApp\HelloApp\obj\Debug\netcoreapp3.1\HelloApp.genruntimeconfig.cache
