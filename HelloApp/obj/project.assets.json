@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\7. Education Days\\C#\\HelloApp\\HelloApp\\HelloApp.csproj",
+      "projectUniqueName": "D:\\7. Education Days\\C#\\Git\\learn_C-\\HelloApp\\HelloApp.csproj",
       "projectName": "HelloApp",
-      "projectPath": "D:\\7. Education Days\\C#\\HelloApp\\HelloApp\\HelloApp.csproj",
+      "projectPath": "D:\\7. Education Days\\C#\\Git\\learn_C-\\HelloApp\\HelloApp.csproj",
       "packagesPath": "C:\\Users\\Dzmitry.liashchynski\\.nuget\\packages\\",
-      "outputPath": "D:\\7. Education Days\\C#\\HelloApp\\HelloApp\\obj\\",
+      "outputPath": "D:\\7. Education Days\\C#\\Git\\learn_C-\\HelloApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dzmitry.liashchynski\\AppData\\Roaming\\NuGet\\NuGet.Config",
